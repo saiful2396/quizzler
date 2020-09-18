@@ -1,4 +1,4 @@
-import 'package:quizzler/question.dart';
+import 'file:///G:/BITM/Flutter_batch_1/quizzler/lib/model/question.dart';
 
 class QuizBrain {
   int _questionNumber = 0;
